@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711797208323,
+      "tag": "0000_famous_amazoness",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711797327540,
+      "tag": "0001_last_echo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711797490927,
+      "tag": "0002_lively_mathemanic",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1711797605436,
+      "tag": "0003_classy_silver_sable",
+      "breakpoints": true
+    }
+  ]
+}
